@@ -247,7 +247,7 @@ Turbo will run the frontend and backend development commands in parallel.
 
 ## Additional Changes
 
-You will need to navigate to `apps/api/package.json` and alter the paths for the venv based on your OS.
+You will need to navigate to and create `apps/api/package.json` and add the paths for the venv based on your OS.
 
 ### Windows
 ```json
