@@ -1,6 +1,7 @@
 # Dependencies
 node_modules/
 **/node_modules/
+/apps/api/package.json
 
 # Next.js
 .next/
